@@ -1,0 +1,2 @@
+# buchikugua-github.io
+blog
